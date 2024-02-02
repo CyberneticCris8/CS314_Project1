@@ -1,5 +1,5 @@
 /*
- * Project Name: COCS 314: Project 1
+ * Project Name: COCS 314: Final Project
  * Author: Cristopher Castro
  * Date: 10/27/2023
  * Description: Program that takes 10x10 0-1 matrix and identifies it's properties (Reflexive, AntiReflexive, Symmetric, AntiSymmetric)
